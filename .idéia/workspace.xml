@@ -1,0 +1,138 @@
+<? xml version = " 1.0 " encoding = " UTF-8 " ?>
+< versão do projeto  = " 4 " >
+  < nome do componente  = " AutoImportSettings " >
+    < nome da opção  = " autoReloadType " valor = " SELECTIVE " /> 
+  </ componente >
+  < nome do componente  = " ChangeListManager " >
+    < list  default = " true "  id = " ffe8af71-95e8-48dc-8cee-c5fec9e9e388 "  name = " Changes "  comment = " Mentoria e Curso " >
+      < change  afterPath = " $PROJECT_DIR$/src/br/com/artnomic/desafio/dominio/Bootcamp.java "  afterDir = " false " />
+      < change  afterPath = " $PROJECT_DIR$/src/br/com/artnomic/desafio/dominio/Dev.java "  afterDir = " false " />
+      < change  beforePath = " $PROJECT_DIR$/.idea/workspace.xml "  beforeDir = " false "  afterPath = " $PROJECT_DIR$/.idea/workspace.xml "  afterDir = " false " />
+      < change  beforePath = " $PROJECT_DIR$/src/Main.java "  beforeDir = " false "  afterPath = " $PROJECT_DIR$/src/Main.java "  afterDir = " false " />
+      < change  beforePath = " $PROJECT_DIR$/src/br/com/artnomic/desafio/dominio/Conteudo.java "  beforeDir = " false "  afterPath = " $PROJECT_DIR$/src/br/com/artnomic/desafio/dominio/Conteudo .java "  afterDir = " false " />
+      < change  beforePath = " $PROJECT_DIR$/src/br/com/artnomic/desafio/dominio/Curso.java "  beforeDir = " false "  afterPath = " $PROJECT_DIR$/src/br/com/artnomic/desafio/dominio/Curso .java "  afterDir = " false " />
+      < change  beforePath = " $PROJECT_DIR$/src/br/com/artnomic/desafio/dominio/Mentoria.java "  beforeDir = " false "  afterPath = " $PROJECT_DIR$/src/br/com/artnomic/desafio/dominio/Mentoria .java "  afterDir = " false " />
+    </ lista >
+    < nome da opção  = " SHOW_DIALOG " valor = " false " /> 
+    < nome da opção  = " HIGHLIGHT_CONFLICTS " valor = " true " /> 
+    < nome da opção  = " HIGHLIGHT_NON_ACTIVE_CHANGELIST " valor = " false " /> 
+    < nome da opção  = " LAST_RESOLUTION " valor = " IGNORE " /> 
+  </ componente >
+  <component name="FileTemplateManagerImpl">
+    < nome da opção  = " RECENT_TEMPLATES " >
+      < lista >
+        < valor da opção  = " Classe " />
+      </ lista >
+    </ opção >
+  </ componente >
+  < nome do componente  = " Git.Settings " >
+    < nome da opção  = " PUSH_TAGS " >
+      < GitPushTagMode >
+        < nome da opção  = " argumento " valor = " --tags " /> 
+        < nome da opção  = " título " valor = " Todos " /> 
+      </ GitPushTagMode >
+    </ opção >
+    < nome da opção  = " RECENT_GIT_ROOT_PATH " valor = " $PROJECT_DIR$ " /> 
+  </ componente >
+  < nome do componente  = " GitSEFilterConfiguration " >
+    < lista de tipos de arquivo >
+      < nome do tipo de arquivo filtrado  = " LOCAL_BRANCH " />
+      < nome do tipo de arquivo filtrado  = " REMOTE_BRANCH " />
+      < nome do tipo de arquivo filtrado  = " TAG " />
+      < nome do tipo de arquivo filtrado  = " COMMIT_BY_MESSAGE " />
+    </ lista de tipos de arquivo >
+  </ componente >
+  < nome do componente  = " ProjectId " id = " 1wwqqwoLc6m1OkxyknNZexQD1VF " /> 
+  < component  name = " ProjectLevelVcsManager "  settingsEditedManually = " true " />
+  < nome do componente  = " ProjectViewState " >
+    < option  name = " hideEmptyMiddlePackages "  value = " true " />
+    < nome da opção  = " showLibraryContents " valor = " true " /> 
+  </ componente >
+  < nome do componente  = " PropertiesComponent " >
+    < nome da propriedade  = " RunOnceActivity.OpenProjectViewOnStart " value = " true " /> 
+    < nome da propriedade  = " RunOnceActivity.ShowReadmeOnStart " value = " true " /> 
+    < nome da propriedade  = " ToolWindowBuild.ShowToolbar " value = " false " /> 
+    < property  name = " settings.editor.selected.configurable "  value = " preferences.lookFeel " />
+  </ componente >
+  < nome do componente  = " RunManager " >
+    < configuration  name = " Main "  type = " Application "  factoryName = " Application "  temporário = " true "  nameIsGenerated = " true " >
+      < nome da opção  = " MAIN_CLASS_NAME " valor = " Main " /> 
+      < nome do módulo  = " abstracao-bootcamp " />
+      < método  v = " 2 " >
+        < option  name = " Make "  enabled = " true " />
+      </ método >
+    </ configuração >
+    < recente_temporário >
+      < lista >
+        < item  itemvalue = " Application.Main " />
+      </ lista >
+    </ recente_temporário >
+  </ componente >
+  < component  name = " SpellCheckerSettings "  RuntimeDictionaries = " 0 "  Folders = " 0 "  CustomDictionaries = " 0 "  DefaultDictionary = " nível de aplicativo "  UseSingleDictionary = " true "  transferido = " true " />
+  < nome do componente  = " Gerenciador de tarefas " >
+    < task  active = " true "  id = " Default "  Summary = " Tarefa padrão " >
+      < id da lista de alterações  = " ffe8af71-95e8-48dc-8cee-c5fec9e9e388 " name = " Alterações " comment = " " />  
+      < criado >1629380195507</ criado >
+      < nome da opção  = " número " valor = " Padrão " /> 
+      < nome da opção  = " presentableId " value = " Default " /> 
+      < atualizado >1629380195507</ atualizado >
+    </ tarefa >
+    < task  id = " LOCAL-00001 "  Summary = " first commit " >
+      < criado >1629380623931</ criado >
+      < nome da opção  = " número " valor = " 00001 " /> 
+      < nome da opção  = " presentableId " valor = " LOCAL-00001 " /> 
+      < nome da opção  = " projeto " valor = " LOCAL " /> 
+      < atualizado >1629380623931</ atualizado >
+    </ tarefa >
+    < task  id = " LOCAL-00002 "  resumo = " first commit " >
+      < criado >1629389077325</ criado >
+      < nome da opção  = " número " valor = " 00002 " /> 
+      < nome da opção  = " presentableId " valor = " LOCAL-00002 " /> 
+      < nome da opção  = " projeto " valor = " LOCAL " /> 
+      < atualizado >1629389077325</ atualizado >
+    </ tarefa >
+    < task  id = " LOCAL-00003 "  resumo = " first commit " >
+      < criado >1629389379712</ criado >
+      < nome da opção  = " número " valor = " 00003 " /> 
+      < nome da opção  = " presentableId " valor = " LOCAL-00003 " /> 
+      < nome da opção  = " projeto " valor = " LOCAL " /> 
+      < atualizado >1629389379712</ atualizado >
+    </ tarefa >
+    < task  id = " LOCAL-00004 "  resumo = " Mentoria e Curso " >
+      < criado >1629390694115</ criado >
+      < nome da opção  = " número " valor = " 00004 " /> 
+      < nome da opção  = " presentableId " valor = " LOCAL-00004 " /> 
+      < nome da opção  = " projeto " valor = " LOCAL " /> 
+      < atualizado >1629390694115</ atualizado >
+    </ tarefa >
+    < task  id = " LOCAL-00005 "  resumo = " Mentoria e Curso " >
+      < criado >1629391111624</ criado >
+      < nome da opção  = " número " valor = " 00005 " /> 
+      < nome da opção  = " presentableId " valor = " LOCAL-00005 " /> 
+      < nome da opção  = " projeto " valor = " LOCAL " /> 
+      < atualizado >1629391111624</ atualizado >
+    </ tarefa >
+    < nome da opção  = " localTasksCounter " valor = " 6 " /> 
+    < servidores />
+  </ componente >
+  < nome do componente  = " Vcs.Log.Tabs.Properties " >
+    < nome da opção  = " TAB_STATES " >
+      < mapa >
+        < chave de entrada  = " PRINCIPAL " >
+          < valor >
+            < Estado />
+          </ valor >
+        </ entrada >
+      </ mapa >
+    </ opção >
+  </ componente >
+  < nome do componente  = " VcsManagerConfiguration " >
+    < valor MESSAGE  = " primeiro commit " />
+    <MESSAGE value="Mentoria e Curso" />
+    < nome da opção  = " LAST_COMMIT_MESSAGE " valor = " Mentoria e Curso " /> 
+  </ componente >
+  < nome do componente  = " XSLT-Support.FileAssociations.UIState " >
+    < expandir />
+    < selecione />
+  </ componente >
+</ projeto >
