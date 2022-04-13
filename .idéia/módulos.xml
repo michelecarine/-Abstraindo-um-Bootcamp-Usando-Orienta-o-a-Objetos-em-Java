@@ -1,0 +1,8 @@
+<? xml version = " 1.0 " encoding = " UTF-8 " ?>
+< versão do projeto  = " 4 " >
+  < nome do componente  = " ProjectModuleManager " >
+    < módulos >
+      < module  fileurl = " file://$PROJECT_DIR$/abstracao-bootcamp.iml "  filepath = " $PROJECT_DIR$/abstracao-bootcamp.iml " />
+    </ módulos >
+  </ componente >
+</ projeto >
