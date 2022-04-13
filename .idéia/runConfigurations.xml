@@ -1,0 +1,10 @@
+<? xml version = " 1.0 " encoding = " UTF-8 " ?>
+< versão do projeto  = " 4 " >
+  < nome do componente  = " RunConfigurationProducerService " >
+    < nome da opção  = " produtores ignorados " >
+      < conjunto >
+        < valor da opção  = " com.android.tools.idea.compose.preview.runconfiguration.ComposePreviewRunConfigurationProducer " />
+      </ conjunto >
+    </ opção >
+  </ componente >
+</ projeto >
