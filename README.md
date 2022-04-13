@@ -150,4 +150,4 @@ Se possível:<br>
 
 ------------
 
-Disponibilizado com ♥ por [cami-la](https://www.linkedin.com/in/cami-la/ "michele-m").
+Disponibilizado com ♥ por [michele-m](https://github.com/michelemeiira)
